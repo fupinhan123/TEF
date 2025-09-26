@@ -12,6 +12,12 @@ Multi-view classification based on the Dempster-Shafer theory is widely recogniz
 
 To address these issues, we propose the enhancing **Trusted multi-view classification via Evolutionary multi-view Fusion (TEF)** approach. TEF employs an evolutionary multi-view architecture search method to create a high-quality fusion architecture serving as the pseudo view, facilitating adaptive view and fusion operator selection. Furthermore, TEF enhances each view within the fusion architecture by concatenating the fusion architecture's decision output with its respective view.
 
+## 🏗️ Model Architecture
+
+<div align="center">
+  <img src="./TEF.png" width="800" alt="TEF Model Architecture">
+</div>
+
 ## 🌟 Key Contributions
 
 1. **Evolutionary Pseudo View Generation**: The pseudo view generation is formulated as a population-based multi-view neural architecture search problem where higher-quality views can be automatically selected and fused with selected fusion operators from a candidate set.
