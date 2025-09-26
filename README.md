@@ -110,9 +110,11 @@ python Train_NUS.py \
     --seed 42
 ```
 
-
-
 ## 📊 Datasets
+
+### Dataset Download
+
+For convenient access to all datasets used in this work, please refer to the [EFB-EMVC repository](https://github.com/LiShuailzn/Neurips-2025-EFB-EMVC), which provides download links and preprocessing scripts for all datasets.
 
 ### Supported Datasets
 
