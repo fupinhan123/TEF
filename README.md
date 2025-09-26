@@ -36,7 +36,6 @@ TEF_Main/
 │
 ├── 📁 models/                 # Model architectures
 │   ├── 📄 TEF.py             # Main TEF model implementation
-│   └── 📄 ETEF.py            # Enhanced TEF components and fusion operators
 │
 ├── 📁 utils/                  # Utility functions
 │   ├── 📄 utils.py           # General utilities (seed, checkpoint, logging)
@@ -44,7 +43,6 @@ TEF_Main/
 │
 ├── 📄 __init__.py            # Package initialization
 ├── 📄 metrics.py             # Evaluation metrics (accuracy, precision, recall, F1, kappa)
-├── 📄 test.py                # Model testing and evaluation script
 └── 📄 Train_NUS.py           # Training script for NUS-WIDE dataset
 ```
 
